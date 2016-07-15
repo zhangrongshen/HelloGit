@@ -5,5 +5,6 @@ public class HelloGit {
 		System.out.println("This is my first Git project") ;
 		System.out.println("Hello Git");
 		System.out.println("finish!") ;
+		System.out.println("Test") ;
 	}
 }
